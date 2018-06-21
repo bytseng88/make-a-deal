@@ -8,7 +8,7 @@ see how the odds of winning differ based on
 if they choose to switch doors.
 The stats can be cleared, allowing for multiple repeated experiments.
 
-# THE MATHS
+# maths
 If the game is played many, many times,
 the player's chances of winning the car 
 if they don't switch doors should approximate 1/3
